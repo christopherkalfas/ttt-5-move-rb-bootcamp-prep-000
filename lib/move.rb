@@ -8,7 +8,7 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index
-  get 
+  get.to_i 
   board[]
   
 end

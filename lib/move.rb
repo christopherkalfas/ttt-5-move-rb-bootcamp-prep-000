@@ -8,7 +8,7 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index( "1" - "9")
-  gets .to_i
+  gets  "1" - "9".to_i
 end
 
 def move
